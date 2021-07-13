@@ -77,4 +77,4 @@ If you have any issues or questions of how to code a specific command, you can:
 
 ## License
 
-This project is licensed under the GPL - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL - see the [LICENSE](LICENSE) file for details
