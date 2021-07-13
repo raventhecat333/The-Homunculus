@@ -1,7 +1,7 @@
 # The Homunculus
 
 <p align="center">
-  <a href="//discord.com/invite/6bHRzQX3Qz"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
+  <a href="//discord.com/invite/6bHRzQX3Qz"><img src="https://img.shields.io/discord/814173270919479317?logo=discord"></a>
   <a href=""><img src="https://img.shields.io/github/v/release/kkrypt0nn/Python-Discord-Bot-Template"></a>
   <a href=""><img src="https://img.shields.io/github/last-commit/raventhecat333/The-Homunculus"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/kkrypt0nn/Python-Discord-Bot-Template/total"></a>
