@@ -3,10 +3,10 @@
 <p align="center">
   <a href="//discord.com/invite/6bHRzQX3Qz"><img src="https://img.shields.io/discord/814173270919479317?logo=discord"></a>
   <a href="//github.com/raventhecat333/The-Homunculus/commits/main"><img src="https://img.shields.io/github/last-commit/raventhecat333/The-Homunculus"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/kkrypt0nn/Python-Discord-Bot-Template/total"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/issues"><img src="https://img.shields.io/github/issues-raw/kkrypt0nn/Python-Discord-Bot-Template"></a>
+  <a href="//github.com/raventhecat333/The-Homunculus/releases"><img src="https://img.shields.io/github/downloads/raventhecat333/The-Homunculus/total"></a>
+  <a href="//github.com/raventhecat333/The-Homunculus/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/raventhecat333/The-Homunculus"></a>
+  <a href="//github.com/raventhecat333/The-Homunculus"><img src="https://img.shields.io/github/languages/code-size/raventhecat333/The-Homunculus"></a>
+  <a href="//github.com/raventhecat333/The-Homunculus/issues"><img src="https://img.shields.io/github/issues-raw/raventhecat333/The-Homunculus"></a>
 </p>
 
 This repository is a template that everyone can use for the start of their discord bot.
