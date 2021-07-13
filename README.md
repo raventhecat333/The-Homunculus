@@ -51,12 +51,6 @@ If you have multiple versions of python installed (2.x and 3.x) then you will ne
 python3 bot.py
 ```
 
-or eventually
-
-```
-python3.8 bot.py
-```
-
 <br>
 
 If you have just installed python today, then you just need to use the following command:
