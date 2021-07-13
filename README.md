@@ -73,7 +73,7 @@ If you have any issues or questions of how to code a specific command, you can:
 
 ## Built With
 
-* [Python 3.8](https://www.python.org/)
+* [Python 3.7](https://www.python.org/)
 
 ## License
 
