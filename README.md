@@ -42,27 +42,16 @@ Windows)
 Before running the bot you will need to install all the requirements with this command:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
-If you have multiple versions of python installed (2.x and 3.x) then you will need to use the following command:
+If you have multiple versions of python installed (2.x and 3.x) then you will need to use only pyhon3
 
 ```
 python3 bot.py
 ```
 
-<br>
-
-If you have just installed python today, then you just need to use the following command:
-
-```
-python bot.py
-```
-
 ## Issues or Questions
-
-If you have any issues or questions of how to code a specific command, you can:
-
 * Join my discord server [here](https://bit.ly/EnvysDomain)
 
 ## Built With
