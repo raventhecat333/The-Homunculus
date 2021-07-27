@@ -24,12 +24,12 @@ needed things to edit.
 
 Here is an explanation of what everything is:
 
-| Variable                  | What it is                                                            |
-| ------------------------- | ----------------------------------------------------------------------|
-| YOUR_BOT_PREFIX_HERE      | The prefix(es) of your bot                                            |
-| YOUR_BOT_TOKEN_HERE       | The token of your bot                                                 |
-| YOUR_APPLICATION_ID_HERE  | The application ID of your bot                                        |
-| OWNERS                    | The user ID of all the bot owners                                     |
+| Variable                  | What it is                                                                               |
+| ------------------------- | -----------------------------------------------------------------------------------------|
+| YOUR_BOT_PREFIX_HERE      | The prefix(es) of your bot                                                               |
+| YOUR_BOT_TOKEN_HERE       | The token of your bot                                                                    |
+| YOUR_APPLICATION_ID_HERE  | The application ID of your bot                                                           |
+| OWNERS                    | The user ID of all the bot owners (or people you want to be able to use owner commands)  |
 
 In the [blacklist](blacklist.json) file you now can add IDs as integers (numbers) in the `ids` list.
 
