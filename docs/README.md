@@ -8,7 +8,7 @@
   <a href="//github.com/raventhecat333/The-Homunculus"><img src="https://img.shields.io/github/languages/code-size/raventhecat333/The-Homunculus"></a>
   <a href="//github.com/raventhecat333/The-Homunculus/issues"><img src="https://img.shields.io/github/issues-raw/raventhecat333/The-Homunculus"></a>
 </p>
-<br>
+<textarea>
 * Clone/Download the repository
     * To clone it and get the updates you can use the command
       `git clone`
@@ -63,4 +63,5 @@ python3 bot.py
 
 This project is licensed under the GPL 3.0 - see the [LICENSE](LICENSE) file for details
 s
+  </textarea>
 </html>
