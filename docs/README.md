@@ -1,5 +1,5 @@
 # The Homunculus
-
+<html>
 <p align="center">
   
   <a href="//github.com/raventhecat333/The-Homunculus/commits/main"><img src="https://img.shields.io/github/last-commit/raventhecat333/The-Homunculus"></a>
@@ -62,3 +62,4 @@ python3 bot.py
 
 This project is licensed under the GPL 3.0 - see the [LICENSE](LICENSE) file for details
 s
+</html>
