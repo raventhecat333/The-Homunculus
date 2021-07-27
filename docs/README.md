@@ -8,6 +8,7 @@
   <a href="//github.com/raventhecat333/The-Homunculus"><img src="https://img.shields.io/github/languages/code-size/raventhecat333/The-Homunculus"></a>
   <a href="//github.com/raventhecat333/The-Homunculus/issues"><img src="https://img.shields.io/github/issues-raw/raventhecat333/The-Homunculus"></a>
 </p>
+<br>
 * Clone/Download the repository
     * To clone it and get the updates you can use the command
       `git clone`
@@ -16,7 +17,7 @@
 * Invite your bot on servers using the following invite:
   https://discordapp.com/oauth2/authorize?&client_id=YOUR_APPLICATION_ID_HERE&scope=bot&permissions=8 (
   Replace `YOUR_APPLICATION_ID_HERE` with the application ID)
-
+<br>
 ## How to set up
 
 To set up the bot there is a [config.json](config.json) file where you can put the
