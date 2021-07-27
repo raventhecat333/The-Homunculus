@@ -31,7 +31,7 @@ Here is an explanation of what everything is:
 | YOUR_APPLICATION_ID_HERE  | The application ID of your bot                                        |
 | OWNERS                    | The user ID of all the bot owners                                     |
 
-In the [blacklist](blacklist.json) file you now can add IDs (as integers) in the `ids` list.
+In the [blacklist](blacklist.json) file you now can add IDs as integers (numbers) in the `ids` list.
 
 ## How to start
 
