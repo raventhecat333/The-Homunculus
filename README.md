@@ -1,7 +1,7 @@
 # The Homunculus
 
 <p align="center">
-  <a href="//discord.com/invite/6bHRzQX3Qz"><img src="https://img.shields.io/discord/814173270919479317?logo=discord"></a>
+  
   <a href="//github.com/raventhecat333/The-Homunculus/commits/main"><img src="https://img.shields.io/github/last-commit/raventhecat333/The-Homunculus"></a>
   <a href="//github.com/raventhecat333/The-Homunculus/releases"><img src="https://img.shields.io/github/downloads/raventhecat333/The-Homunculus/total"></a>
   <a href="//github.com/raventhecat333/The-Homunculus/blob/main/LICENSE.MD"><img src="https://img.shields.io/github/license/raventhecat333/The-Homunculus?style=plastic"></a>
