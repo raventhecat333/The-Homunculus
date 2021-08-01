@@ -20,8 +20,6 @@ class owner(commands.Cog, name="owner"):
         
         
         
-
-   
     @commands.command()
     async def shutdown(self, context):
         """
@@ -33,7 +31,6 @@ class owner(commands.Cog, name="owner"):
                 color=0x42F56C
             )
             await context.send(embed=embed)
-            #await context.message.delete()
             await self.bot.close()
         else:
             embed = discord.Embed(
