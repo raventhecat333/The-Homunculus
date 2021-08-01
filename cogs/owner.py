@@ -1,9 +1,7 @@
-#import datetime
 import json
 import os
 import sys
 import time
-#from datetime import time
 import discord
 from discord.ext import commands
 
