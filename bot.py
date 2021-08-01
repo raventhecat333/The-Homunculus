@@ -1,10 +1,3 @@
-""""
-Copyright © Krypton 2021 - https://github.com/kkrypt0nn
-Description:
-This is a template to create your own discord bot in python.
-
-Version: 2.8
-"""
 
 import json
 import os
@@ -71,7 +64,7 @@ async def on_ready():
 # Setup the game status task of the bot
 @tasks.loop(minutes=0.22)
 async def status_task():
-    statuses = ["with time", "with Humans!", f"{config['bot_prefix']}help", "with humans!", f"{config['bot_prefix']}yt or {config['bot_prefix']}stream to play music", "who makes these statuses?", "no really who makes them", "waiting for Envy#8394 to give me a queue system"]
+    statuses = ["with time", "with Humans!", f"{config['bot_prefix']}help", f"{config['bot_prefix']}yt or {config['bot_prefix']}stream to play music"]
     await bot.change_presence(activity=discord.Game(random.choice(statuses)))
 
 
